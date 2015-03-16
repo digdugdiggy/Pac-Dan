@@ -1,7 +1,7 @@
 # Pac-Dan
 Pac-Man clone made with LibGDX
 
-
+![](https://dl.dropboxusercontent.com/u/24222531/IMAGES/PacDan/pacmanPoster.png)
 This is a solo project, completed around the end of 2014 by Charles Fahselt.
 
 In total, it took about 4 months and ended up at around 3000 lines of code.
