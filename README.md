@@ -9,6 +9,7 @@ My goals with this project were as follows:
 2. Practice Art Asset creation. 
 3. Reproduce the original Pac-Man game as closely as possible.
 
-The "Pac-Man Dossier" was referred to extensively and was a great help in this project. http://home.comcast.net/~jpittman2/pacman/pacmandossier.html
+The "Pac-Man Dossier" was referred to extensively and was a great help in this project.
+http://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print=1
 
 http://libgdx.badlogicgames.com/
