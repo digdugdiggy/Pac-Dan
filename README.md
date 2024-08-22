@@ -10,6 +10,6 @@ My goals with this project were as follows:
 3. Reproduce the original Pac-Man game as closely as possible.
 
 The "Pac-Man Dossier" was referred to extensively and was a great help in this project.
-http://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print=1
+[http://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print=1](https://pacman.holenet.info/)
 
-http://libgdx.badlogicgames.com/
+Open source game library for Java [LibGDX](https://libgdx.com/)
