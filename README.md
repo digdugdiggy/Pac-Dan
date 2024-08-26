@@ -15,4 +15,4 @@ The "Pac-Man Dossier" was referred to extensively and was a great help in this p
 Open source game library for Java [LibGDX](https://libgdx.com/)
 
 # Playing the game
-You can download the `PacDan.FINAL.jar` from the [releases page of this repo](https://github.com/fahseltc/Pac-Dan/releases/tag/1.1)
+You can download and run the `PacDan.FINAL.jar` from the [releases page of this repo](https://github.com/fahseltc/Pac-Dan/releases/tag/1.1)
